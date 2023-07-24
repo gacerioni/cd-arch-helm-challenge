@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  architect-challenge:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-24T18:29:07.904114301Z"
+    description: A Helm chart for Kubernetes
+    digest: 909f7d98a9c3374e2ce1b69a836265ff84815bbe5c219f15cee30305582e5b7a
+    name: architect-challenge
+    type: application
+    urls:
+    - https://github.com/gacerioni/cd-arch-helm-challenge/releases/download/architect-challenge-0.1.1/architect-challenge-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-07-24T18:29:07.904121602Z"
